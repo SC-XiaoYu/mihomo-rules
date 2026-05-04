@@ -1,12 +1,10 @@
 # 域名后缀匹配
-DOMAIN-SUFFIX,807703.xyz
-DOMAIN-SUFFIX,tzgll.cn
-DOMAIN-SUFFIX,7424826.xyz	
-DOMAIN-SUFFIX,1888866.xyz
-DOMAIN-SUFFIX,use-application-dns.net
-DOMAIN-SUFFIX,ustc.edu.cn
+＋.807703.xyz
+＋.tzgll.cn
+＋.7424826.xyz	
+＋.1888866.xyz
+＋.use-application-dns.net
+＋.ustc.edu.cn
 #证书申请
-DOMAIN-SUFFIX,acme.zerossl.com
-DOMAIN-SUFFIX,acme-v02.api.letsencrypt.org
-# 域名关键字匹配
-DOMAIN-KEYWORD,dns
+＋.acme.zerossl.com
+＋.acme-v02.api.letsencrypt.org
