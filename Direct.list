@@ -210,15 +210,8 @@ DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,yangkeduo.com
 
-# JD
-DOMAIN-SUFFIX,360buy.com
-DOMAIN-SUFFIX,360buyimg.com
-DOMAIN-SUFFIX,jcloudcs.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,jd.hk
-DOMAIN-SUFFIX,jdcloud.com
-DOMAIN-SUFFIX,jdpay.com
-DOMAIN-SUFFIX,paipai.com
+# 移动云
+DOMAIN-SUFFIX,cmecloud.cn
 
 # Kingsoft
 DOMAIN-SUFFIX,iciba.com
