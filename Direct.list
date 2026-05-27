@@ -13,6 +13,18 @@ DOMAIN-SUFFIX,tzgll.cn
 DOMAIN-SUFFIX,1888866.xyz
 DOMAIN-SUFFIX,mr.yanyuwangluo.cn
 
+#屿森直连服
+DOMAIN-KEYWORD,yusen
+DOMAIN-SUFFIX,yusen6.ccwu.cc
+DOMAIN-SUFFIX,yusen8.ccwu.cc
+DOMAIN-SUFFIX,yusen.cyou
+IP-CIDR,51.83.100.187/32
+
+# 移动云与139邮箱直连规则
+DOMAIN-SUFFIX,cmecloud.cn
+DOMAIN-SUFFIX,cmecloud.com
+DOMAIN-SUFFIX,139.com
+
 #证书申请
 DOMAIN-SUFFIX,acme.zerossl.com
 DOMAIN-SUFFIX,acme-v02.api.letsencrypt.org
@@ -209,9 +221,6 @@ DOMAIN-SUFFIX,qy.net
 # PDD 拼多多
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,yangkeduo.com
-
-# 移动云
-DOMAIN-SUFFIX,cmecloud.cn
 
 # Kingsoft
 DOMAIN-SUFFIX,iciba.com
